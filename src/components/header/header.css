@@ -1,0 +1,43 @@
+.bg {
+    background: url("../../../public/block1_bg.png") top no-repeat;
+}
+
+.dot {
+    width: 25px;
+    height: 25px;
+    background: #3814e8;
+    border-radius: 50%;
+}
+
+.header {
+   
+    color: white;
+}
+
+.header h1 {
+    font-size: 6em;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.header h3 {
+    font-size: 3.5em;
+    font-weight: 200;
+    max-width: 550px;
+}
+
+.apply {
+    background: #3814e8;
+    border-radius: 6px;
+    border: none;
+    padding: 10px 30px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 40px;
+    font-weight: 600;
+
+}
+
+.plus-icon-img {
+    padding-right: 20px;
+}

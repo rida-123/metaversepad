@@ -1,0 +1,29 @@
+.card{
+    background-color: #061123 !important;
+}
+.col-12{
+    background-color: #1F2A41 !important;
+padding: 30px;
+padding-left: 25px !important;
+    border-radius: 20px;
+    background-clip:padding-box;
+    box-sizing: border-box;
+    border: 10px solid transparent;
+
+  
+}
+.head{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 1.2;
+    color:white;
+    margin-left: 10px;
+}
+.media-body{
+    font-weight: 200;
+    padding: 20px 0px 0px 0px;
+    font-size: 1em;
+    color: white;
+}

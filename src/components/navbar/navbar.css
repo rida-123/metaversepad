@@ -1,0 +1,37 @@
+.navbar {
+    background: url("../../../public/bg.png") top no-repeat, #061123;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.btn1 {
+    width: 230px;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    background-image: linear-gradient(to right, #5413EA, #F60FF8);
+
+
+}
+
+.btn1:hover {
+    background-image: linear-gradient(to right, #F60FF8, #F60FF8);
+    color: white !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+
+    margin-left: 40px;
+    color: white !important;
+
+}
+
+.img {
+    padding-right: 10px;
+}
+
+.navbar-toggler {
+    border-color: white !important;
+}

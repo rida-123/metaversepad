@@ -1,7 +1,15 @@
 .bg {
     background: url("../../../public/block1_bg.png") top no-repeat;
 }
-
+.box1{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+@media only screen and (max-width: 700px) {
+    .box1 {
+      padding-bottom: 0px;
+    }
+  }
 .dot {
     width: 25px;
     height: 25px;

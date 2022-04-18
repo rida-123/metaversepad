@@ -1,0 +1,51 @@
+
+.footer {
+    background: #030c1d;
+    max-width: 1980px;
+    min-height: 270px;
+    margin: 0 auto;
+    color: #fff;
+padding-top: 80px;
+padding-bottom: 40px;
+}
+.social h3 {
+    margin-left: 100px;
+    font-weight: 700;
+    font-size: 2.1em;
+    margin-top: 37px;
+}
+
+.social_img img {
+    margin: 20px 0px 20px 30px;
+}
+.social_img {
+    text-align: right;
+    margin-top: 40px;
+}
+.copy {
+    color: #9ba8c5;
+    margin: 40px 0px;
+}
+.con_btn{
+    background: #3814e8;
+    border-radius: 6px;
+    border: none;
+    padding: 10px 30px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 0px;
+    font-weight: 600;
+}
+.contract {
+    float: right;
+    margin-top: 30px;
+}
+.mail {
+    float: right;
+    margin: 40px 40px 0px 0px;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

@@ -3,7 +3,7 @@ const Header = () => {
     return (
         <>
             <div className='bg'>
-                <div className='container'>
+                <div className='container box1'  >
                     <div className='header' >
              
                         <div className='dot'>
@@ -14,10 +14,7 @@ const Header = () => {
                             <img src="plus_icon.png" className='plus-icon-img'></img>
                             APPLY FOR IDO
                         </button>
-                        <br></br>
-                        <br></br>
-                        <br></br>
-                        <br></br>
+                        
                       
                     </div>
                 </div>

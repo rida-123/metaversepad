@@ -1,11 +1,19 @@
-import './card.css'
+import './card.css';
+import AOS from "aos";
+import "aos/dist/aos.css";
+import {useEffect} from 'react'
 const Card=()=>{
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
 return<>
 <div className='card'>
 <div className='container' style={{backgroundColor: "#061123"}}>
+<div data-aos="zoom-in" data-aos-duration="700">
 <div className='row' style={{paddingTop:"50px",paddingBottom:"50px"}}>
-    <div className='col-12 col-sm-4'>
 
+<div className='col-12 col-sm-4 box'>
     <div className="media">
   <img className="mr-3" src="ido_icon.png" alt="Generic placeholder image" />
   <span className="head mt-0">Launchpad</span>
@@ -14,9 +22,10 @@ return<>
     Fundrising and launching new metaverse <br></br>projects.
   </div>
 </div>
-
-    </div>
-    <div className='col-12 col-sm-4'>
+</div>
+    
+  
+    <div className='col-12 col-sm-4 box'>
     <div className="media">
   <img className="mr-3" src="nft_icon.png" alt="Generic placeholder image" />
   <span className="head mt-0">NFT Produce</span>
@@ -25,7 +34,7 @@ return<>
   </div>
 </div>
     </div>
-    <div className='col-12 col-sm-4'>
+    <div className='col-12 col-sm-4 box'>
     <div className="media">
   <img className="mr-3" src="audit_icon.png" alt="Generic placeholder image" />
   <span className="head  mt-0">Contracts Audits</span>
@@ -33,6 +42,7 @@ return<>
   </div>
 </div>
     </div>
+</div>
 </div>
 </div>
 </div>

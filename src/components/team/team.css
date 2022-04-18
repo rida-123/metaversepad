@@ -1,0 +1,31 @@
+.team{
+    background-color: #061123;
+}
+.title2 {
+    padding: 40px 20px 40px 20px;
+    color: #fff;
+    text-align: center;
+}
+.title2 h3 {
+    font-size: 2em;
+    font-weight: 700;
+}
+.part-line {
+    max-width: 300px;
+    background: #311dda;
+    height: 2px;
+    border-radius: 12px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.logos {
+    text-align: center;
+}
+.logos img {
+    max-height: 45px;
+    margin: 20px 20px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}

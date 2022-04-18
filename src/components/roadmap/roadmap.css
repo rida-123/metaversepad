@@ -1,0 +1,56 @@
+.roadmap {
+    padding: 40px 0px;
+    color: #fff;
+}
+
+
+.title1 {
+    padding: 40px 20px 40px 20px;
+    color: #fff;
+}
+.title-line{
+height: 40px;
+width: 10px;
+background: #351be3;
+border-radius: 12px;
+margin-right: 20px;
+float: left;
+}
+.title1 h3 {
+    font-size: 2em;
+    font-weight: 700;
+}
+.road{
+    background-color: #061123;
+}
+.q {
+    background: #351be3;
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 12px;
+}
+.roadmap h2 {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 3px;
+}
+.map {
+    background: #0f2139;
+    border-radius: 12px;
+    padding: 20px 20px;
+    margin-top: 10px;
+    min-height: 320px;
+}
+.road-line {
+    background: url("../../../public/road_line.png") top no-repeat;
+    width: 116px;
+    height: 8px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.drop{
+    margin-top: 60px;
+}

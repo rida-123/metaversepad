@@ -29,13 +29,13 @@ const Navbar = () => {
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#">
+                    <a className="nav-link" href="#pool">
                       <img src="menu_icon2.png" className='img'></img>
                       View Pools
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#">
+                    <a className="nav-link" href="#tier">
                       <img src="menu_icon4.png" className='img'></img>
                       Staking
                     </a>

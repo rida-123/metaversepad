@@ -1,0 +1,185 @@
+.titles {
+    padding: 40px 20px 40px 20px;
+    color: #fff;
+}
+
+.title-line {
+    height: 40px;
+    width: 10px;
+    background: #351be3;
+    border-radius: 12px;
+    margin-right: 20px;
+    float: left;
+}
+
+.titles h3 {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.pricing {
+    background-color: #061123 !important;
+    padding-bottom: 50px;
+}
+
+.mpdbal {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px 0px;
+    border-bottom: 1px solid #3510dc;
+    color: #fff;
+    text-align: center;
+}
+
+.price-table {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);
+}
+
+.bronze {
+    background: #1f2a41;
+    border-radius: 12px;
+    margin-top: 30px;
+    padding: 40px 0px 0px 0px;
+    color: #fff;
+    text-align: center;
+ 
+}
+
+.bronze h2 {
+    font-size: 2.4em;
+    font-weight: 700 !important;
+    margin-top: 0px;
+   
+}
+
+.plainline {
+    background: linear-gradient(to right, #3814e8 0%, #fc0ef8 100%);
+    border-radius: 6px;
+    width: 100px;
+    height: 3px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.pplan1 {
+    background-color: #071021;
+    border-radius: 6px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.pplan1 h3 {
+    font-weight: bold;
+}
+
+.bronze p {
+    font-size: 1.1em;
+    font-weight: 200;
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+
+.bronze h3 {
+    font-size: 2.3em;
+    font-weight: 700 !important;
+    margin-top: 0px;
+}
+
+.grant {
+    background: #111d30;
+    padding: 20px 0px;
+    border-radius: 12px;
+}
+
+.ido_button {
+    background: linear-gradient(to right, #3814e8 0%, #fc0ef8 100%);
+    border-radius: 12px;
+    border: none;
+    margin-top: 20px;
+    padding: 12px 10px !important;
+    cursor: pointer;
+    color: #fff;
+    min-width: 300px;
+    max-width: 100%;
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+.ido_button:hover {
+    background-image: linear-gradient(to right, #F60FF8, #F60FF8);
+}
+
+.form-control {
+    border-radius: 12px !important;
+    padding: 12px 10px !important;
+    margin-top: 40px;
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.st-form {
+    background: #1b2231;
+    margin-top: 20px;
+    text-align: left;
+    padding: 20px 20px;
+    border-radius: 12px;
+}
+
+.st-title {
+    border-bottom: 1px solid #303b54;
+    font-size: 0.9em;
+    padding: 10px 0px;
+}
+
+.st-amount {
+    font-size: 1.3em;
+    font-weight: 600;
+    padding: 10px 0px;
+}
+
+.clr {
+    clear: both;
+}
+
+.panel {
+    padding: 0 18px;
+    overflow: hidden;
+}
+
+.applied {
+    background: #3814e8;
+    border-radius: 6px;
+    border: none;
+    padding: 10px 30px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 40px;
+    font-weight: 600;
+}
+
+.accordion-collapse {
+    background-color: #1F2A41;
+}
+
+.accordion-item {
+    background-color: #1F2A41;
+}
+
+.accordion-item:first-of-type {
+    background-color: #1F2A41;
+}

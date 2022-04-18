@@ -1,0 +1,31 @@
+.title{
+    background-color: #061123 !important;
+}
+.title-line{
+    height: 40px;
+    width: 10px;
+    background: #351be3;
+    border-radius: 12px;
+    margin-right: 20px;
+    float: left;
+}
+.about h3{
+    font-size: 2em;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+}
+.about p{
+    font-weight: 200;
+    font-size: 1.2em;
+    max-width: 650px;
+    padding: 20px 20px;
+    color: white;
+}
+.about{
+   padding: 40px 20px 40px 20px;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}

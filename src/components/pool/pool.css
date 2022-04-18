@@ -1,0 +1,106 @@
+
+.pool-bg {
+    background-color: #0F2139;
+    min-width: 320px;
+    max-width: 1980px;
+    margin: 0 auto;
+}
+.title1{
+    padding: 40px 20px 40px 20px;
+    color: white;
+}
+.ttile-line{
+    height: 40px;
+    width: 10px;
+    background: #351be3;
+    border-radius: 12px;
+    margin-right: 20px;
+    float: left;
+}
+.title1 h3{
+    font-size: 2em;
+    font-weight: 700;
+}
+.mid_pool {
+    background: #fff;
+    border-radius: 12px;
+    color: #1c263b;
+}
+.img_fluid {
+    max-width: 100%;
+    height: auto;
+}
+.pool_info {
+    padding: 20px 20px 20px 10px;
+}
+.pool_info h3 {
+    font-weight: 700;
+    font-size: 2.2em;
+    margin-bottom: 0px;
+}
+.pool_info p {
+    font-weight: 200;
+    font-size: 1.1em;
+}
+.time_bg {
+    background: #e2e6e9;
+    border-radius: 12px;
+    padding: 10px 10px;
+}
+.time_bg img {
+    max-width: 20px;
+    margin-top: -2px;
+    margin-right: 10px;
+}
+.pool_footer img {
+    float: left;
+    max-width: 30px;
+    margin-right: 10px;
+}
+.pool_footer {
+    padding-top: 20px;
+}
+.pool_footer h3 {
+    font-size: 1.2em;
+}
+.pool_down {
+    background: #fff;
+    border-radius: 12px;
+    padding: 6px 20px;
+    margin-top: 10px;
+}
+.dpbg {
+    background: #e2e7e9;
+    border-radius: 12px;
+    padding: 7px 0px;
+}
+.dpbg b {
+    background: #52ca69;
+    border-radius: 12px;
+    padding: 10px 10px;
+    color: #fff;
+}
+
+.pool_btn {
+    background: #3814e8;
+    border-radius: 6px;
+    border: none;
+    padding: 5px 30px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 2px;
+    font-weight: 600;
+    float: right;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);
+}
+.clr{
+    clear: both;
+}

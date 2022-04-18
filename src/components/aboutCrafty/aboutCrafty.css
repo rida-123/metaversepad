@@ -1,0 +1,16 @@
+.about_ido {
+    padding: 80px 0px 80px 0px;
+    color: #fff;
+}
+.main{
+    background-color: #061123;
+}
+.about_ido p {
+    font-weight: 200;
+    font-size: 1.2em;
+    max-width: 650px;
+    padding: 20px 20px;
+}
+.graf {
+    margin-top: 40px;
+}

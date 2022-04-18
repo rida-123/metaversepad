@@ -1,0 +1,12 @@
+.about_ido p{
+    font-weight: 200;
+    font-size: 1.2em;
+    max-width: 650px;
+    padding: 20px 20px;
+}
+.roadmap-craft h4{
+    color: white;
+}
+.roadmap-craft  p{
+    color: white;
+}

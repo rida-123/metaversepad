@@ -104,3 +104,23 @@
 .clr{
     clear: both;
 }
+@media (min-width: 320px) and (max-width: 760px){
+.polava {
+    text-align: center;
+    margin-top: 20px;
+}
+}
+@media (min-width: 320px) and (max-width: 760px){
+.pool_btn {
+    background: #3814e8;
+    border-radius: 12px;
+    border: none;
+    padding: 5px 30px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 6px;
+    font-weight: 600;
+    float: right;
+    width: 100%;
+}
+}

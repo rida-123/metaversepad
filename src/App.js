@@ -1,4 +1,5 @@
 import Home from "./components/home/home";
+import './App.css'
 import React from "react";
 import Crafty from './components/crafty/crafty';
 import Tmon from "./components/tmon/tmon";

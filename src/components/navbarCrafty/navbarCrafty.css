@@ -16,6 +16,12 @@
 
 
 }
+@media (min-width: 320px) and (max-width: 760px){
+.btn2 {
+    width: 100%;
+    margin-top: 10px;
+}
+}
 .proj_icon{
     margin-top: 100px;
     color: #fff;

@@ -22,7 +22,7 @@ const Tokenomics=()=>{
 <img src='tokenomic_grafic.png' className='img-fluid'></img>
                         </div>
                         <div className='col-12 col-sm-6 col-lg-9'>
-<div className='graph'>
+<div className='graf'>
     <div className='row'>
         <div className='col-12 col-sm-5'>
 <div className='title1'>

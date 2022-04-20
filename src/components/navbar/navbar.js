@@ -1,7 +1,11 @@
 import './navbar.css'
+import MyVerticallyCenteredModal from '../centeredModal/centeredmodal';
+
 const Navbar = () => {
+
   return (
     <>
+    <MyVerticallyCenteredModal/>
       <div className='bg'>
         <div className='container-fluid' style={{ padding: "0px" }}>
           <nav className="navbar navbar-expand-lg navbar-light ">
@@ -50,9 +54,10 @@ const Navbar = () => {
 
                 </ul>
                 <form className="d-flex">
-                  <button className="btn1" >
+                  <button type="button"className="btn1" data-toggle="modal" data-target="#exampleModalCenter" >
                     Wallet Connect
                   </button>
+        
                 </form>
               </div>
             </div>

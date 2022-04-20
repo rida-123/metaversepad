@@ -2,6 +2,7 @@ import './footer.css';
 const Footer=()=>{
     return (
         <>
+        <div className='clr' style={{height:"70px",backgroundColor:"#061123"}}></div>
         <div className='footer'>
             <div className='container'>
                 <div className='row'>
